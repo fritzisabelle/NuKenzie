@@ -1,0 +1,16 @@
+.totalContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.column1 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: start;
+}
+
+.totalValue {
+  color: #fd377e;
+}

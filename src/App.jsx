@@ -12,7 +12,6 @@ function App() {
 
   const calculateTotal = listTransactions.reduce(
     (previousValue, transaction) => {
-      console.log(transaction.value);
       return previousValue + transaction.value;
     },
     0

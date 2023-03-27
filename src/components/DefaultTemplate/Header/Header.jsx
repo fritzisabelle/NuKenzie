@@ -1,4 +1,5 @@
 import styles from "./styles.module.css";
+import "../../../assets/Nu-Kenzie.svg";
 
 export const Header = () => {
   return (

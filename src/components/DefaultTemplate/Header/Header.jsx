@@ -5,7 +5,8 @@ export const Header = () => {
     <header>
       <div className={styles.headerContainer}>
         <img
-          src="../src/assets/Nu-Kenzie.svg"
+          src="../../../assets/Nu-Kenzie.svg"
+          // src="../src/assets/Nu-Kenzie.svg"
           alt="logo nukenzie"
           className={styles.logo}
         />
